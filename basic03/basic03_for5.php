@@ -1,6 +1,6 @@
 <?php
 function RevertStr ($str){
-    // $str = "My Name is Fred";
+   
 $i = 0;
 while( $d = $str[$i] )
 {
